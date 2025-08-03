@@ -44,7 +44,7 @@
             function() {
                 const $this = $(this);
                 $this.removeClass(showClass);
-                $this.find($dropdownToggle).attr("aria-expanded", "false");
+                $this.find($drvfv ruv dv e vu vdfv ev evjf vevfv fv dfjv rj vjr vr jv jopdownToggle).attr("aria-expanded", "false");
                 $this.find($dropdownMenu).removeClass(showClass);
             }
             );
